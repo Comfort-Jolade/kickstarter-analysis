@@ -12,15 +12,15 @@ This analysis will guide Louise’s decision in her fundraising goal in a short 
 	
 ### Analysis of Outcomes Based on Launch Date
 The theater campaign was most successful in May and with the most failure in November	
-The cancelled theatre campaigns were very low compared to the successful and failed	
+The cancelled theatre campaigns were very low compared to the successful and failed outcomes.	
 
 ![Theater_Outcome-vs_Launch png](https://user-images.githubusercontent.com/104603037/167565420-ecf0aefe-fb18-42b1-b146-131f4ccd8667.png)
 
 ### Analysis of Outcomes Based on Goals
-The theatre campaign with subcategory plays and funding goal less than 1000 has 76% successful outcome which is the project with most successful outcome.	
+The theatre campaign with subcategory plays and funding goal less than $1000 has 76% successful outcome which is the project with most successful outcome.After this is the the funding goal between $1000 and $4999 with successful outcome of 73% which also considered high when compared to other funding goals.
 None of the plays subcategory campaign funding goal was canceled	
-The funding goal between 45000 and 49999 recorded no success with one failure	
-The funding goal that ranges between 15000 to 19999 have 50% successful project and 50 % failure
+The funding goal between 45000 and $49,999 recorded no success with one failure	
+The funding goal that ranges between $15,000 to $19,999 have 50% successful project and 50 % failure, this imply a 50:50 chance for such campaign.
 ![Outcome_vs_Goals png](https://user-images.githubusercontent.com/104603037/167565194-546bf2c7-7cb8-44b0-8cc7-953586eddf26.png)
 
 
@@ -38,13 +38,11 @@ I used the Sort option in the filter button to sort it.
 
 ## Results
 
-Conclusion
-Outcome based on Launch date
 The best time of the year to launch the theater campaign is in the month of May, while the month to totally avoid the campaign is in the month of November.	
-Outcome based on Goals	
-The most successful funding goal is the goal that is less than $1,000 which have a successful outcome of 76% of the total project. While the campaign withing the range $45,000 to $49,999 is not recommended.	
+Outcome based on Goals. Also 	
+The most successful funding goal is the goal that is less than $1000 which have a successful outcome of 76% of the total project. While the campaign withing the range $45,000 to $49,999 is not recommended.	
 	
-Limitation of the data set
+
 The data set is only checking monthly outcome of just one subcategory in the theater group and therefore the recommendation is limited to the outcomes.	
-We can also sort the percentage successful, and percentage failed in ascending order to see a snapshot of the outcomes
+We can also sort the percentage of successful and percentage failed in ascending order to see a snapshot of the outcomes
 
